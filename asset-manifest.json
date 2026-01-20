@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pinterest-clone/static/css/main.31d6cfe0.css",
+    "main.js": "/pinterest-clone/static/js/main.e3e05e9c.js",
+    "static/js/453.50e8133f.chunk.js": "/pinterest-clone/static/js/453.50e8133f.chunk.js",
+    "index.html": "/pinterest-clone/index.html",
+    "main.e3e05e9c.js.map": "/pinterest-clone/static/js/main.e3e05e9c.js.map",
+    "453.50e8133f.chunk.js.map": "/pinterest-clone/static/js/453.50e8133f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.e3e05e9c.js"
+  ]
+}
