@@ -1,5 +1,5 @@
 # Pinterest UI Clone - React.js
-
+ 
 A high-fidelity Pinterest replica built with React.js and Tailwind CSS. This project focuses on responsive masonry layouts and performance optimization through lazy loading.
 
 ## 🚀 Features
