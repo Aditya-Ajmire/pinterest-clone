@@ -8,10 +8,12 @@ A high-fidelity Pinterest replica built with React.js and Tailwind CSS. This pro
 - **Infinite Scroll:** Automatically fetches more content as the user scrolls.
 - **Hover Interactions:** Smooth overlays and "Save" button interactions.
 
+
 ## 🛠️ Tech Stack
 - **Frontend:** React.js
 - **Styling:** Tailwind CSS (via CDN)
 - **Deployment:** GitHub Pages
+
 
 ## 📦 Installation
 1. Clone the repo: `git clone https://github.com/YourUsername/pinterest-clone.git`
